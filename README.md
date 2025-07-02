@@ -1,5 +1,6 @@
 # Spliit Client
 
+[![Coverage Status](https://coveralls.io/repos/github/abg0148/spliit_client/badge.svg?branch=main)](https://coveralls.io/github/abg0148/spliit_client?branch=main)
 [![PyPI version](https://badge.fury.io/py/spliit-client.svg)](https://badge.fury.io/py/spliit-client)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
