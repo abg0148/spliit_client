@@ -11,6 +11,6 @@ from .client import Spliit, SplitMode, CATEGORIES
 
 __version__ = "0.1.0"
 __author__ = "Abhinav"
-__email__ = "your.email@example.com"
+__email__ = "gptabhinav0148@gmail.com"
 
 __all__ = ["Spliit", "SplitMode", "CATEGORIES"] 

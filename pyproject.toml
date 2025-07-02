@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.7"
 license = {text = "MIT"}
 authors = [
-    { name = "Abhinav", email = "your.email@example.com" }
+    { name = "Abhinav", email = "gptabhinav0148@gmail.com" }
 ]
 keywords = ["spliit", "expense", "sharing", "api", "client", "group", "expenses"]
 classifiers = [
@@ -47,10 +47,10 @@ dev = [
 spliit = "spliit_client.__main__:main"
 
 [project.urls]
-"Homepage" = "https://github.com/yourusername/spliit_client"
-"Repository" = "https://github.com/yourusername/spliit_client"
-"Documentation" = "https://github.com/yourusername/spliit_client#readme"
-"Bug Reports" = "https://github.com/yourusername/spliit_client/issues"
+"Homepage" = "https://github.com/abg0148/spliit_client"
+"Repository" = "https://github.com/abg0148/spliit_client"
+"Documentation" = "https://github.com/abg0148/spliit_client#readme"
+"Bug Reports" = "https://github.com/abg0148/spliit_client/issues"
 
 [tool.black]
 line-length = 88

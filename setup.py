@@ -10,8 +10,8 @@ setup(
     long_description=long_description,
     long_description_content_type="text/markdown",
     author="Abhinav",
-    author_email="your.email@example.com",
-    url="https://github.com/yourusername/spliit_client",
+    author_email="gptabhinav0148@gmail.com",
+    url="https://github.com/abg0148/spliit_client",
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -52,8 +52,8 @@ setup(
     zip_safe=False,
     keywords="spliit, expense, sharing, api, client, group, expenses",
     project_urls={
-        "Bug Reports": "https://github.com/yourusername/spliit_client/issues",
-        "Source": "https://github.com/yourusername/spliit_client",
-        "Documentation": "https://github.com/yourusername/spliit_client#readme",
+        "Bug Reports": "https://github.com/abg0148/spliit_client/issues",
+        "Source": "https://github.com/abg0148/spliit_client",
+        "Documentation": "https://github.com/abg0148/spliit_client#readme",
     },
 ) 
