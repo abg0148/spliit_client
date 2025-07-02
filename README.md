@@ -1,6 +1,6 @@
 # Spliit Client
 
-[![PyPI version](https://badge.fury.io/py/spliit_client.svg)](https://badge.fury.io/py/spliit_client)
+[![PyPI version](https://badge.fury.io/py/spliit-client.svg)](https://badge.fury.io/py/spliit-client)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -28,7 +28,7 @@
 ### From PyPI (Recommended)
 
 ```bash
-pip install spliit_client
+pip install spliit-client
 ```
 
 ### From Source
