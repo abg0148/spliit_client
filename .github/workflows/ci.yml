@@ -22,7 +22,7 @@ jobs:
       - name: Run tests with coverage
         run: |
           pytest --cov=spliit_client --cov-report=xml
-      - name: Upload coverage to Codecov
-        uses: codecov/codecov-action@v4
+      - name: Upload coverage to Coveralls
+        uses: coverallsapp/github-action@v2
         with:
-          fail_ci_if_error: true 
+          github-token: ${{ secrets.GITHUB_TOKEN }} 
