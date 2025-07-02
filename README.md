@@ -6,6 +6,8 @@
 
 **Spliit Client** is a professional, well-documented Python client for the [Spliit API](https://spliit.app), enabling seamless group expense sharing and management. This package is released under the permissive [MIT License](LICENSE), making it suitable for both personal and commercial projects.
 
+> **Note:** This project is a fix and improvement on the work done in [makp0/spliit-api-client](https://github.com/makp0/spliit-api-client), with enhanced structure, documentation, testing, and packaging.
+
 ---
 
 ## Features
@@ -239,6 +241,7 @@ This project is licensed under the [MIT License](LICENSE). You are free to use, 
 ## Acknowledgments
 
 - [Spliit](https://spliit.app) for the expense sharing platform
+- [makp0/spliit-api-client](https://github.com/makp0/spliit-api-client) for the original implementation
 - The Python community for excellent tools and libraries
 
 ## Support
