@@ -1,11 +1,14 @@
 # Spliit Client
 
+[![Documentation Status](https://readthedocs.org/projects/spliit-client/badge/?version=latest)](https://spliit-client.readthedocs.io/en/latest/?badge=latest)
 [![Coverage Status](https://coveralls.io/repos/github/abg0148/spliit_client/badge.svg?branch=main)](https://coveralls.io/github/abg0148/spliit_client?branch=main)
 [![PyPI version](https://badge.fury.io/py/spliit-client.svg)](https://badge.fury.io/py/spliit-client)
 [![Python 3.7+](https://img.shields.io/badge/python-3.7+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 **Spliit Client** is a professional, well-documented Python client for the [Spliit API](https://spliit.app), enabling seamless group expense sharing and management. This package is released under the permissive [MIT License](LICENSE), making it suitable for both personal and commercial projects.
+
+📚 **Full documentation:** https://spliit-client.readthedocs.io/
 
 > **Note:** This project is a fix and improvement on the work done in [makp0/spliit-api-client](https://github.com/makp0/spliit-api-client), with enhanced structure, documentation, testing, and packaging.
 
